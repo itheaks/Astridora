@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "292759307158",
+    "project_id": "astridora-dc477",
+    "storage_bucket": "astridora-dc477.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292759307158:android:95ac9db314493756e013b7",
+        "android_client_info": {
+          "package_name": "com.example.astridora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292759307158-sslpeci9rjuchjjotlb5ski2qktoihik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.astridora",
+            "certificate_hash": "dec53baa4453d390f314cfcd9d49f31ea256efce"
+          }
+        },
+        {
+          "client_id": "292759307158-l2mtisa8uv2djfc3l212v7v894d7laes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOS064hvIhE52TNZSLf4XW52eVLwhCwwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292759307158-l2mtisa8uv2djfc3l212v7v894d7laes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
