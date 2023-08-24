@@ -1,4 +1,4 @@
-# astridora
+# Astridora
 
 A new Flutter project.
 
