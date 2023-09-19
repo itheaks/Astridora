@@ -1,6 +1,6 @@
 # Astridora
 
-A new Flutter projects
+A new Flutter project
 
 
 ## Getting Started
